@@ -29,6 +29,8 @@ Each folder in this repository represents an assignment or hands-on exercise com
 
 *Assignment-01 - Build a Project gpt
 
+*Assignment-02 - Build a Project gpt
+
 Each assignment may include:
 - Project documentation
 - Reports
