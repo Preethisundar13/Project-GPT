@@ -31,12 +31,9 @@ Each folder in this repository represents an assignment or hands-on exercise com
 
 *Assignment-02 - Build a Project gpt
 
-Each assignment may include:
-- Project documentation
-- Reports
-- Source code (where applicable)
-- Supporting resources
-- Screenshots and outputs
+*Assignment-03 - Build a Project gpt.
+
+These assignments are parts of building a Project gpt starting from specifying a purpose to writing the brain of the gpt that is the markdown file.
 
 ---
 
