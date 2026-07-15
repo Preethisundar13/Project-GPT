@@ -27,15 +27,7 @@ Through this course, I am developing practical skills in:
 
 Each folder in this repository represents an assignment or hands-on exercise completed during the course.
 
----
-Project-GPT/
-│
-├── Assignment-01 - Build a Project gpt
-├── Assignment-02/
-├── Assignment-03/
-├── Assignment-04/
-└── README.md
----
+*Assignment-01 - Build a Project gpt
 
 Each assignment may include:
 - Project documentation
